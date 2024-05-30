@@ -42,4 +42,4 @@
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact" alt="Mhaccgg" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhaccgg&" alt="Mhaccgg" /></p>
 
-<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
+
