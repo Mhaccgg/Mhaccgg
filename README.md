@@ -22,6 +22,21 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
+<div align="center">
+<a href="https://github.com/Mhaccgg" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Mateo Herrera Salazar" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Mateo Herrera Salazar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/mateo Herrera Salazar" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhaccgg&show_icons=true&locale=en" alt="Mhaccgg" /></p>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact" alt="Mhaccgg" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhaccgg&" alt="Mhaccgg" /></p>
