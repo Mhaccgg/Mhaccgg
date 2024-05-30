@@ -26,7 +26,7 @@
 <a href="https://github.com/Mhaccgg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Mateo Herrera Salazar" target="_blank">
+<!-- <a href="https://www.facebook.com/Mateo Herrera Salazar" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/Mateo Herrera Salazar" target="_blank">
@@ -34,7 +34,7 @@
 </a>
 <a href="https://stackoverflow.com/users/mateo Herrera Salazar" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhaccgg&show_icons=true&locale=en" alt="Mhaccgg" /></p>
