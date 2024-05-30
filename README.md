@@ -23,6 +23,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
 <div align="center">
+  ## Connect with me  
 <a href="https://github.com/Mhaccgg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -41,3 +42,4 @@
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact" alt="Mhaccgg" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhaccgg&" alt="Mhaccgg" /></p>
 
+<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
