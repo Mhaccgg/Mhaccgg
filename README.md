@@ -43,7 +43,7 @@
 </div>  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhaccgg&show_icons=true&locale=en" alt="Mhaccgg" /></p>
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact" alt="Mhaccgg" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhaccgg&" alt="Mhaccgg" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact" alt="Mhaccgg" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhaccgg&" alt="Mhaccgg" /></p> -->
 
 
