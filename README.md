@@ -20,7 +20,7 @@ Hey there, Player One! You've just entered the 8-bit world of a passionate devel
 
 <div align="center">
 
-![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=Mhaccgg&show_icons=true&locale=en&layout=compact&theme=dark)
+![GitHub](https://github.com/Mhaccgg/)
 <!-- Add other social media links when available -->
 
 </div>
