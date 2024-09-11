@@ -20,7 +20,7 @@ Hey there, Player One! You've just entered the 8-bit world of a passionate devel
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/Join%20My%20Party-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Join%20My%20Party-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mhaccgg)
 <!-- Add other social media links when available -->
 
 </div>
